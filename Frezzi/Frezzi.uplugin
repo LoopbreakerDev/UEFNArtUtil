@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": true,
+	"BuiltInInitialFeatureState": "Active",
+	"FortReleaseVersion": "40.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "ArtUtil",
+	"Description": "Plugin to help speed up the art creation process inside of UEFN",
+	"Category": "",
+	"CreatedBy": "Avery / X:@vixenovaa",
+	"CreatedByURL": "https://vnova.dev/",
+	"DocsURL": "https://github.com/averxbee/UEFNArtUtil",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		}
+	]
+}
