@@ -112,3 +112,7 @@ You can pose individual skeletal meshes of a skin by adding them to the sequence
 A Sim Cache can be created to record and freeze Niagara FX to get them perfect for your render. I cant explain it all here but I suggest looking into it!
 
 ![](./images/t2.png)
+
+You can find TODM/DSA settings in the World Settings tab. Please use these instead of the Time of Day dropdown added at the top of the viewport by using a DSA, those settings wont save to the level but these will.
+
+![](./images/t3.png)
