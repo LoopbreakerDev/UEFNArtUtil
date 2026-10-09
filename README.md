@@ -13,6 +13,7 @@ The main focus of this plugin is one main Editor Utility Widget with the followi
 - Template Level for simple character render creation. Comes with Blender-like World presets + optional lighting presets
 - Shortcuts to speed up creation and management of organized render folders, Levels, and Level Sequences
 - Fortnite Body and Face Control Rigs (ported from an official UEFN template)
+- Fixed Roxas assets so he does not crash the editor (Character_FaunaPike_Patched)
 
 This plugin is __not perfect__, but it does work in most cases.
 
