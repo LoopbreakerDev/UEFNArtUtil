@@ -33,7 +33,7 @@ __UEFN runs off live updates (meaning Fortnite assets may be added, removed, or 
 
 # Installation
 
-Patched UEFN is required before moving on. You can use Carbon to easily do this, download it in their [Discord](https://discord.gg/carbon).
+Patched UEFN is required before moving on. You can use Carbon to easily do this, download it in their [Discord](https://discord.com/invite/carbon-897532507048796210).
 
 Also install __Frezzi.zip__ from this repo
 
