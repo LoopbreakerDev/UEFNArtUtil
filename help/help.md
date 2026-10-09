@@ -98,7 +98,7 @@ Before moving into a general guide with UEFN and some tips, feel free to check o
 Patched UEFN can be unstable at times.. the following is a list of actions that __WILL CRASH__ the editor instantly. Please save your work often and avoid these!
 - Opening _some_ cooked assets (notably Niagara, something an artist probably would attempt to peek at)
 - Having AnimAssets directed at the player load. This means in the Content Browser, editor dropdowns, and most importantly __in the Sequencer, characters will have an "Animation" dropdown.. DO NOT HOVER OVER IT!__ Please move your cursor __around__ it when using the menu.
-- Loading the __Roxas__ will crash, more specifically once his Body Character Part is loaded. I have no idea why this happens, and I dont think any other skin has this issue.
+- Loading the __Roxas__ will crash, more specifically once his Body Character Part is loaded. This is due to stripped code in his AnimBP that makes the editor freak out and crash, and I dont think any other skin has this issue.
 - Copying __Volume__ type Actors inside of __cooked Levels__ will crash. If you would like to copy Actors outside of a level please search "Volume", delete them, then copy all the actors. I dont think any other Actor types cause this.
 - Do not accidentally try to __save/apply changes__ to a cooked asset such as a __cooked Material__ or a __cooked Material Instance__. Not that this would do anything useful.. but dont accidentally do it.
 - Dont __undo edits__ done to a __cooked Material__ or __cooked Material Instance__. I dont know if this crashes 100% of the time, but it has happened before. Be cautious if touching these asset types.
