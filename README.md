@@ -23,9 +23,10 @@ Patched UEFN is when the standard Unreal Editor for Fortnite is modified to allo
 This utility does NOT patch UEFN on its own. For that, I recommend using Carbon.
 
 Please note that the following are not supported in patched UEFN:
-- Kicks
+- Kicks (Mutable crash)
 - Vehichle Cosmetics
-- LEGO Minifigures
+- LEGO Minifigures (Mutable crash)
+- Caper And Alias skins (Mutable crash)
 
 ### IMPORTANT NOTE ON PATCHED UEFN:
 
