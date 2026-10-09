@@ -26,6 +26,10 @@
 		{
 			"Name": "GameFeatures",
 			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
 		}
 	]
 }
